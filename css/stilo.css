@@ -52,6 +52,21 @@ body {
 }
 
 .icon{
-    font-size: 18px;
+    font-size: 19px;
     
 }
+.tel {
+    background-color: rgb(40, 71, 157);
+    border: 0px;
+}
+.site {
+    background-color: rgb(208, 31, 160);
+    border: 0px;
+}
+.addctt {
+    background-color: rgb(222, 147, 44);
+    border: 0px;
+}
+.compartilhar {
+    background-color: rgb(216, 193, 19);
+    border: 0px;
